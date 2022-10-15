@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-docker-one</finalName>
 	</build>
 
 </project>
